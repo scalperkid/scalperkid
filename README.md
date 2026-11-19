@@ -2,7 +2,7 @@
 
 ### Hi, I'm Jeff
 
-I build automation that keeps a business running without anyone babysitting it. Most of my work is GoHighLevel, n8n and Claude, plus the Meta and Google ads that feed them, for marketing agencies and home service businesses.
+I'm a full stack developer and marketing technologist. I build automation that keeps a business running without anyone babysitting it. Most of my work is GoHighLevel, n8n and Claude, plus the Meta and Google ads that feed them, for marketing agencies and home service businesses.
 
 I'm ops lead at a white-label HighLevel agency, and I run the HighLevel Philippines community, around 20,000 members.
 
