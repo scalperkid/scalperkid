@@ -4,7 +4,7 @@
 
 I'm a full stack developer and marketing technologist. I build automation that keeps a business running without anyone babysitting it. Most of my work is GoHighLevel, n8n and Claude, plus the Meta and Google ads that feed them, for marketing agencies and home service businesses.
 
-I'm ops lead at a white-label HighLevel agency, and I run the HighLevel Philippines community, around 20,000 members.
+I'm ops lead at a white-label HighLevel agency, and I run the [HighLevel Philippines community](https://www.facebook.com/groups/highlevelphilippinescommunity), around 20,000 members.
 
 **A few things I've built**
 
@@ -21,5 +21,6 @@ Most of this code is private because it runs on client accounts. The video above
 <a href="https://offers.jeff-lim.com/sync-orchestrator">two builds, 2 min</a> &nbsp;|&nbsp;
 <a href="https://offers.jeff-lim.com/jeff-lim-intro">intro</a> &nbsp;|&nbsp;
 <a href="https://jeff-lim.com/Jeff-Lim-Resume.pdf">resume</a> &nbsp;|&nbsp;
+<a href="https://www.facebook.com/groups/highlevelphilippinescommunity">HighLevel Philippines</a> &nbsp;|&nbsp;
 <a href="mailto:hello@jeff-lim.com">hello@jeff-lim.com</a>
 </samp>
